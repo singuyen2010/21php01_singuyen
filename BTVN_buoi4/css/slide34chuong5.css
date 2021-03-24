@@ -4,7 +4,7 @@ html {
     background: linear-gradient(200deg, rgba(255,255,242,1) 0%, rgba(251,206,138,1) 100%);
 }
 body{
-     width: 680px;
+     width: 650px;
      border: 1px solid black;
      border-radius: 25px;
      box-shadow: 5px 5px 0px 0px;
@@ -18,7 +18,8 @@ body{
    }
  
 header {
-			height: 130px;
+			height: 110px;
+			border-bottom: 4px solid yellow;
 		}
 	
 	header img {
@@ -40,7 +41,7 @@ header {
 		}
 
 		.content {
-			height: 450px;
+			height: 380px;
 			font-family: Arial;	
 		}
 		.content h1 {
@@ -57,4 +58,6 @@ header {
 		.phai {
 			float: right;
 		}
-		
+footer {
+			border-top: 4px solid yellow;
+		}
