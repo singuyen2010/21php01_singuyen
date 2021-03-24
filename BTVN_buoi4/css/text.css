@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "myTestFont";
+	src: url(../font/AlexBrush-Regular.ttf);
+}
+.welcome {
+	font-family: "myTestFont";
+	font-size: 50px;
+	height: 200px;
+	border: 1px solid green;
+	text-align: center;
+	line-height: 200px;
+
+}
+.demo1{
+	text-transform: lowercase;
+}
+.demo2{
+	color: red;
+	font-size: 30px;
+	text-decoration: line-through;
+	/*underline hoac overline*/
+}
+.demo3{
+	color: green;
+	font-size: 60px;
+	text-transform: uppercase;
+	text-shadow: -5px -3px yellow;
+}
