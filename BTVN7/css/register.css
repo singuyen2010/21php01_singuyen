@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+.register {
+	width: 360px;
+	float: left;
+	margin-right: 20px;
+}
+.register form {
+	border: 1px solid gray;
+	padding: 20px 20px 30px;
+	line-height: 30px;
+}
+.sao:after {
+  content:"*";color:red;
+}
+a {color: blue;}
+.size {
+	width: 100%;
+	height: 35px;
+}
+h1 {padding-bottom: 20px;}
+
+
+.ten {
+	float: left;
+	width: 149px;
+}
+.ho {
+	float: left;
+	width: 149px;
+}
+.ten {margin-right: 20px;}
+.dangky {
+	margin-top: 20px;
+}
+.nhap {
+	height: 30px;
+	width: 100px;
+}
